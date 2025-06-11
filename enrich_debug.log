@@ -1,0 +1,25 @@
+2025-06-11 09:42:11,091 - INFO - Reading input CSV …
+2025-06-11 09:42:11,102 - INFO - Starting enrichment …
+2025-06-11 09:42:11,103 - INFO - Extracted domains in 0.00s
+2025-06-11 09:42:11,103 - INFO - Fetching company age for 1000 unique domains
+2025-06-11 09:45:10,426 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:46:32,579 - ERROR - Error trying to connect to socket: closing socket - timed out
+2025-06-11 09:50:38,464 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:38,466 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:38,511 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:38,719 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:38,788 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:38,892 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,241 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,275 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,494 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,512 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,587 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,686 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:39,997 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:40,177 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:40,319 - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2025-06-11 09:50:40,630 - INFO - Company ages computed in 509.53s
+2025-06-11 09:50:40,647 - INFO - Other enrichments computed in 0.02s
+2025-06-11 09:50:40,649 - INFO - Enrichment finished in 509.55s
+2025-06-11 09:50:40,664 - INFO - Script completed in 509.57s
